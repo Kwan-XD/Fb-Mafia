@@ -12,7 +12,7 @@
 
 # cd Fb-Mafia
 
-# python2 Abm-all.p
+# python2 Abm-all.py
 
 # (02) Seclist ✅
 

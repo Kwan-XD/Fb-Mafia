@@ -1,4 +1,4 @@
-Screenshot_20200815-093234.7z
+
 
 # (01) Fb-Mafia ✅
 
@@ -12,7 +12,7 @@ Screenshot_20200815-093234.7z
 
 # cd Fb-Mafia
 
-# python2 Abm-all.py
+# python2 Abm-all.p
 
 # (02) Seclist ✅
 

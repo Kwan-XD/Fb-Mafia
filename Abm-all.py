@@ -421,6 +421,7 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[⊱⋕⊰] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z')	
 	print 42*"\033[1;97m="
 	time.sleep(0.05)
 	print "\033[1;94m Create by \033[1;91m: \033[1;92mTech Abm" 
@@ -726,6 +727,7 @@ def pilih_techabm():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[⊱⋕⊰] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z')	
 	print 42*"\033[1;97m="
 	time.sleep(0.05)
 	print "\033[1;94m Create by \033[1;91m: \033[1;92mTech Abm" 

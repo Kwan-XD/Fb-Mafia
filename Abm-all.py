@@ -441,10 +441,10 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
+	print "\n\033[1;97m  «-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m «--------------------------------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;91m           Create By : Tech-Abm')
+	jalan('. \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        jalan(' \033[1;91m            Create By : Tech-Abm')
 	print "\033[1;97m «--------------------------------------------»"
 	
 	def main(arg):
@@ -666,10 +666,10 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
+	print "\n\033[1;97m  «-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m «--------------------------------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;91m           Create By : Tech-Abm')
+	jalan('   \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
+        jalan(' \033[1;91m            Create By : Tech-Abm')
 	print "\033[1;97m «--------------------------------------------»"
 
 	def main(arg):

@@ -149,17 +149,17 @@ def login():
 	print "\033[1;97m «--------------------------------------------»" 
 	print "\033[1;91m[1]\033[1;93m Login with Facebook \033[1;97m(\033[1;91mfb login\033[1;97m) "
         time.sleep(0.05)
-        print "\033[1;91m[2]\033[1;94m Login with access token \033[1;97m(\033[1;91mTokenz\033[1;97m)"
+        print "\033[1;91m[2]\033[1;94m Login with access token \033[1;97m (\033[1;91mTokenz\033[1;97m)"
         time.sleep(0.05)
         print "\033[1;91m[3]\033[1;93m Get Access Token In Kiwi Browser \033[1;97m(\033[1;91mlink\033[1;97m)"
 	time.sleep(0.05)
 	print "\033[1;91m[4]\033[1;94m Add Access Token In Toolkit \033[1;97m(\033[1;91mVideo\033[1;97m)"
 	time.sleep(0.05)
-	print "\033[1;91m[5]\033[1;93m Download Kiwi Browser \033[1;97m(\033[1;91mUrl\033[1;97m)"
+	print "\033[1;91m[5]\033[1;93m Download Kiwi Browser \033[1;97m (\033[1;91mUrl\033[1;97m)"
 	time.sleep(0.05)
-	print "\033[1;91m[6]\033[1;94m Update Tech Abm Command \033[1;97m(\033[1;91mGithub\033[1;97m) "
+	print "\033[1;91m[6]\033[1;94m Update Tech Abm Command \033[1;97m (\033[1;91mGithub\033[1;97m) "
 	time.sleep(0.05)
-	print "\033[1;91m[7]\033[1;93m Follow me fb page \033[1;97m(\033[1;91mTech Abm\033[1;97m) "
+	print "\033[1;91m[7]\033[1;93m Follow me fb page \033[1;97m (\033[1;91mTech Abm\033[1;97m) "
 	time.sleep(0.05)
 	print "\033[1;91m[0]\033[1;96m Logout        "
         print "\033[1;97m «--------------------------------------------»"

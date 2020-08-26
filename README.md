@@ -22,15 +22,8 @@
 
 # cd Seclist
 
-# python2 Pakclone.py
+# python2 Abm-hacker.py
 
-# python2 Indiaclone.py
+# Username : Abm
 
-# python2 Indoclone.py
-
-# python2 Bangalclone.py
-
-# python2 Malaysiaclone.py
-
-# python2 Usaclone.py
-
+# Password : Abm

@@ -13,7 +13,9 @@
 
 > cd Fb-Mafia`
 
-> python2 Abm.py`
+> python2 Abm-all.py`
+
+|I am not responsible for this Tools
 
 
 

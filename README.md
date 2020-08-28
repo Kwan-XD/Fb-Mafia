@@ -1,29 +1,41 @@
+<p align="left">
+
+<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 
-# (01) Fb-Mafia ✅
+### Fb Mafia Installation ❕
 
-# apt update && apt upgrade 
+> `apt update && apt upgrade `
 
-# apt install git -y
+> ` apt install python2 `
 
-# apt install python2 -y
+> `git clone https://github.com/Tech-abm/Fb-Mafia`
 
-# git clone https://github.com/Tech-abm/Fb-Mafia
+> cd Fb-Mafia`
 
-# cd Fb-Mafia
+> python2 Abm.py`
 
-# python2 Abm-all.py
 
-# (02) Seclist ✅
 
-# apt install git -y
 
-# git clone https://github.com/Tech-abm/Seclist
 
-# cd Seclist
 
-# python2 Abm-hacker.py
 
-# Username : Abm
 
-# Password : Abm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

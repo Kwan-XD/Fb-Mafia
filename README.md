@@ -11,11 +11,11 @@
 
 > `git clone https://github.com/Tech-abm/Fb-Mafia`
 
-> cd Fb-Mafia`
+> `cd Fb-Mafia`
 
-> python2 Abm-all.py`
+> `python2 Abm-all.py`
 
-|I am not responsible for this Tools
+-[] I am not responsible for this Tools
 
 
 

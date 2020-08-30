@@ -5,15 +5,15 @@
 
 ### Fb Mafia Installation ❕
 
-> `apt update && apt upgrade `
+- `apt update && apt upgrade `
 
-> ` apt install python2 `
+- ` apt install python2 `
 
-> `git clone https://github.com/Tech-abm/Fb-Mafia`
+- `git clone https://github.com/Tech-abm/Fb-Mafia`
 
-> `cd Fb-Mafia`
+- `cd Fb-Mafia`
 
-> `python2 Abm-all.py`
+- `python2 Dark-Cloning.py`
 
 #### _I am not responsible for this Tools_
 

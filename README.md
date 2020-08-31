@@ -13,6 +13,10 @@
 
 - `cd Fb-Mafia`
 
+- `pip2 install mechanize`
+
+- `pip2 install requests `
+
 - `python2 Dark-Cloning.py`
 
 

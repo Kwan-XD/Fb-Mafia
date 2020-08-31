@@ -7,6 +7,8 @@
 
 - `apt update && apt upgrade `
 
+- ` apt install git`
+
 - ` apt install python2 `
 
 - `git clone https://github.com/Tech-abm/Fb-Mafia`

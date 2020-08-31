@@ -22,9 +22,9 @@
 - `python2 Dark-Cloning.py`
 
 
-#### _I am not responsible for this Tools_
+#### > _I am not responsible for this Tools_
 
-#### _Version 1.0_
+#### > _Version 1.0_
 ![PicsArt_08-30-11.31.36.jpg](https://user-images.githubusercontent.com/52023076/91666789-94390880-eab4-11ea-8b54-83a3a0d487f0.jpg)
 
 

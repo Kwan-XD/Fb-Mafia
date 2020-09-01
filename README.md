@@ -24,7 +24,7 @@
 
  > I am not responsible for this Tools
 
- > Version 1.0
+ > Version 2.0
 ![PicsArt_08-30-11.31.36.jpg](https://user-images.githubusercontent.com/52023076/91666789-94390880-eab4-11ea-8b54-83a3a0d487f0.jpg)
 
 
